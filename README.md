@@ -1,6 +1,8 @@
 # Email App
 
-## Instructions
+## Simple Console Email Application in Java
+
+### Instructions
 Make sure you have java installed
 ```
 $ java -version
